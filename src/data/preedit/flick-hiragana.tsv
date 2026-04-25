@@ -140,16 +140,16 @@ s		も	NoTransliteration
 や*		ゃ
 ゃ*		や
 や`		ゃ
+t			NoTransliteration
 u		ゆ	NoTransliteration
 ゆ*		ゅ
 ゅ*		ゆ
 ゆ`		ゅ
+v		𛀁	NoTransliteration
 ^		よ	NoTransliteration
 よ*		ょ
 ょ*		よ
 よ`		ょ
-t		(	NoTransliteration
-v		)	NoTransliteration
 9		ら	NoTransliteration
 w		り	NoTransliteration
 x		る	NoTransliteration
@@ -164,14 +164,20 @@ z		ろ	NoTransliteration
 わ*		ゎ
 ゎ*		わ
 わ`		ゎ
-+		を	NoTransliteration
++		ゐ	NoTransliteration
+ゐ*		𛅐
+𛅐*		ゐ
+ゐ`		𛅐
 /		ん	NoTransliteration
--		ー	NoTransliteration
+-		ゑ	NoTransliteration
+ゑ*		𛅑
+𛅑*		ゑ
+ゑ`		𛅑
+<		を	NoTransliteration
 #		、	NoTransliteration
 ,		。	NoTransliteration
 ?		？	NoTransliteration
 !		！	NoTransliteration
-<		〜	NoTransliteration
 >		…	NoTransliteration
 {<}		
 {!}		
